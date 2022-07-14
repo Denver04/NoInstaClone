@@ -1,5 +1,6 @@
 # Not a Instagram Clone
-Insta type website I made but its not the clone.
+ 1) Insta type website I made but its not the clone.
+ 2) You can also double click on image to giev it a like. 
 
 ![image](https://user-images.githubusercontent.com/87076425/178904428-183d95fb-0dc9-40da-9b2f-df19892bb311.png)
 
