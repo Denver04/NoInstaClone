@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NoInstaClone/static/css/main.a5f82a03.css",
+    "main.js": "/NoInstaClone/static/js/main.bd019fff.js",
+    "index.html": "/NoInstaClone/index.html",
+    "main.a5f82a03.css.map": "/NoInstaClone/static/css/main.a5f82a03.css.map",
+    "main.bd019fff.js.map": "/NoInstaClone/static/js/main.bd019fff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f82a03.css",
+    "static/js/main.bd019fff.js"
+  ]
+}
