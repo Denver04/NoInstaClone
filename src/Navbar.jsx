@@ -4,7 +4,7 @@ import "./card.css"
 const Navbar = () => {
   return (
     <nav className='navbar'>
-        <h1>Instagram</h1>
+        <h1>Linstagram</h1>
     </nav>
   )
 }
